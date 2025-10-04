@@ -3,8 +3,8 @@
 ## Table of contents
 
 - [Who We Are](#who-we-are)
-- [Speech Projects](#speech-projects-🎙️)
-- [Visual/AIGC Projects](#visual-projects-🎬)
+- [Speech Projects](#speech-projects-%EF%B8%8F)
+- [Visual/AIGC Projects](#visual-projects-)
 - [Join Us](#join-us)
 
 ## Who We Are
